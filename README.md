@@ -30,8 +30,8 @@
 ### 🏆 Github Stats
 
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=MuttakinHasib&show_icons=true&theme=light" width="450" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MuttakinHasib&theme=light" width="450" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=MuttakinHasib&show_icons=true&theme=light" width="430" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MuttakinHasib&theme=light" width="430" >
 </p>
 
 
