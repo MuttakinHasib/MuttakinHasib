@@ -27,9 +27,11 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+### 🏆 Github Stats
 
+<img  src="https://github-readme-stats.vercel.app/api?username=MuttakinHasib&show_icons=true&theme=light" width="48%" align="left" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MuttakinHasib&theme=light" width="48%" >
 
-[![Hasib's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=muttakinhasib&show_icons=true)](https://github.com/MuttakinHasib/github-readme-stats)
 
 
 <!--
