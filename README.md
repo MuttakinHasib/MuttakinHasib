@@ -36,7 +36,7 @@
 <code><img height="45" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>
 <code><img height="40" src="https://seeklogo.com/images/N/nx-logo-8EB5A23B44-seeklogo.com.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg"></code>
-
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
 ### 🏆 Github Stats
 
