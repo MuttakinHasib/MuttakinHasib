@@ -58,7 +58,8 @@
 </a>
 -->
 
-![Metrics](https://metrics.lecoq.io/Muttakinhasib?template=classic&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka)
+![Metrics](https://raw.githubusercontent.com/MuttakinHasib/MuttakinHasib/master/github-metrics.svg)
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muttakinhasib)
