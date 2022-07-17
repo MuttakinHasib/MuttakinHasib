@@ -27,7 +27,7 @@ jobs:
           # Options
           user: Muttakinhasib
           template: classic
-#           base: header, activity, community, repositories, metadata
+          base: metadata
           config_timezone: Asia/Dhaka
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
