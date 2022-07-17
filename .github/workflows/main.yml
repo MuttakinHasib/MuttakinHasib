@@ -37,4 +37,8 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_lines: yes
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: Website
+          plugin_screenshot_url: https://www.muttakinhasib.me/
