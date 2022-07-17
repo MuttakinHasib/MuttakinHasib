@@ -29,5 +29,11 @@ jobs:
           template: classic
           base: metadata
           config_timezone: Asia/Dhaka
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
