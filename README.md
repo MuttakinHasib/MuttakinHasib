@@ -32,10 +32,13 @@
 <!-- <code><img height="45" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"></code> -->
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png"></code>
 <code><img height="45" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>
-<code><img height="40" src="https://seeklogo.com/images/N/nx-logo-8EB5A23B44-seeklogo.com.png"></code>
+<code><img height="35" src="https://seeklogo.com/images/N/nx-logo-8EB5A23B44-seeklogo.com.png"></code>
+<code><img height="45" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 <code><img height="35" src="https://seeklogo.com/images/D/digitalocean-logo-F29C9B4012-seeklogo.com.png"></code>
 
