@@ -62,7 +62,7 @@
 -->
 
 ![Metrics](https://raw.githubusercontent.com/MuttakinHasib/MuttakinHasib/master/github-metrics.svg)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MuttakinHasib/MuttakinHasib/blob/master/devcard.svg" width="400" alt="Muttakin Hasib's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MuttakinHasib/MuttakinHasib/blob/master/devcard.svg" width="300" align="right" alt="Muttakin Hasib's Dev Card"/></a>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muttakinhasib)
