@@ -46,7 +46,7 @@
 ### 🏆 Github Stats
 
 <p align="left">
-  <img  src="https://githubstats.muttakinhasib.com/api?username=MuttakinHasib&show_icons=true&theme=light" width="400" >
+  <img  src="https://githubstats.muttakinhasib.com/api?username=MuttakinHasib&show_icons=true&theme=light&include_all_commits=true" width="400" >
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MuttakinHasib&theme=light" width="400" >
 </p>
 
