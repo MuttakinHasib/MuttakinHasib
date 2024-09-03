@@ -11,7 +11,7 @@
 </a>
 -->
 
-#### A passionate self-taught Full Stack developer from Bangladesh.
+#### A passionate self-taught Full Stack Engineer from Bangladesh.
 <!--
 - 🔭 I’m currently working on my project [Al Quran](https://github.com/MuttakinHasib/Al-Quran)
 - 🌱 I’m currently learning React & React Native
